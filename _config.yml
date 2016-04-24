@@ -11,8 +11,6 @@ url:              http://codeforlife.education
 
 include: ['_pages']
 
-gems:
-  - jemoji
 
 github:
   rapid:          https://github.com/ocadotechnology/rapid-router
